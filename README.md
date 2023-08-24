@@ -1,5 +1,6 @@
 # Forbes_data_analysis
 Overview: Using the Forbes' highest paid athletes dataset, this project entails data analysis and problem-solving aimed at analyzing patterns and identifying the highest paid athletic categories. This is achieved by creating various simplistic graphs through the application of Power BI.
+
 Detailed Project Description:
 This project serves as an illuminating journey into the world of data analysis and problem-solving, with a focal point on the esteemed Forbes' highest paid athletes dataset. Our presentation offers a comprehensive showcase of the outcomes derived from this analytical endeavor. Through the adept utilization of data visualization tools, specifically Power BI, we weave a narrative that unravels the latent stories hidden within the dataset's intricate fabric.
 
