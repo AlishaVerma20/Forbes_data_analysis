@@ -9,3 +9,6 @@ One of the primary objectives of this project is to illustrate the potency of da
 In our presentation, we diligently present the fruits of our labor in both Task 1 and Task 2. Task 1 delves into the intriguing realm of data exploration, where we meticulously examine the dataset to unearth hidden gems of insights. Task 2, on the other hand, entails the identification of the top-paying athletic categories, a pursuit that echoes the fusion of analytical rigor and problem-solving acumen.
 
 Throughout our presentation, we emphasize the unearthing of unique patterns that underlie the athlete's earnings, contributing to a comprehensive understanding of the dataset. Our aim is to not only showcase the outcomes but to elucidate the systematic approach that underpins our analysis. By elucidating the methodology and presenting visually captivating representations, we endeavor to shed light on the enthralling relationship between data and insight, exemplifying the potential of data analysis and problem-solving in a tangible, real-world context.
+
+
+Final presentation link: https://docs.google.com/presentation/d/1u_IhGR0udzOhypCCTq80uFWD5a8gogfEokzDw4Ph7-c/edit?usp=sharing
